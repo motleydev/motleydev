@@ -1,5 +1,0 @@
-safe: true
-source: https://github.com/motleydev/motleydev.git
-destination: motleydev/motleydev.github.com
-lsi: false
-pygments: true
